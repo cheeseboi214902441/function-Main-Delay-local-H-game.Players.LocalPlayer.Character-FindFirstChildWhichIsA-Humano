@@ -1,0 +1,1 @@
+# function-Main-Delay-local-H-game.Players.LocalPlayer.Character-FindFirstChildWhichIsA-Humano
